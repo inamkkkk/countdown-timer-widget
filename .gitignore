@@ -1,0 +1,20 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/build/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Podfile.lock
+lib/**/*.g.dart
+lib/**/*.freezed.dart
+lib/**/*.gr.dart
+build/
+release/
+# General files
+*.iml
+.DS_Store
+.idea
+.vscode
+*.log
